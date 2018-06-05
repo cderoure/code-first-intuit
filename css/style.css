@@ -1,3 +1,12 @@
+
+.btn-awesome {
+  background-color: pink;
+}
+
+.btn-default {
+  font-size: 100px;
+}
+
 .jumbotron {
   background-color: #dd3237;
   color: white;
