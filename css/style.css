@@ -1,5 +1,5 @@
 .jumbotron {
-  background-color: red;
+  background-color: #dd3237;
   color: white;
 }
 
@@ -18,8 +18,4 @@
 
 .list {
   color: grey;
-}
-
-.pimms-image {
-  width: 300px;
 }
