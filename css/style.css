@@ -1,0 +1,21 @@
+.jumbotron {
+  background-color: red;
+  color: white;
+}
+
+.table {
+  text-align: left;
+  color: grey;
+}
+
+.heading {
+  color: grey;
+}
+
+.section {
+  padding: 10px;
+}
+
+.list {
+  color: grey;
+}
